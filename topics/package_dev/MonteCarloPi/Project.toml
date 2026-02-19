@@ -1,0 +1,8 @@
+name = "MonteCarloPi"
+uuid = "b4f2e8a1-3c59-4d7e-a612-9f8b5c1d3e7a"
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "1.10"
